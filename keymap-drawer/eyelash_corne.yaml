@@ -18,13 +18,13 @@ layers:
   - A
   - S
   - D
-  - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
+  - F
   - G
   - $$mdi:arrow-left-bold$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:arrow-right-bold$$
   - H
-  - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
+  - J
   - K
   - L
   - {t: ;, s: ':'}
@@ -115,7 +115,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - $$mdi:apple-keyboard-caps$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '[', s: '{'}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
